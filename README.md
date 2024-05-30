@@ -1,1 +1,1 @@
-# HospitalManagementSystem
+Hospital Management System is a Software Application. which is used by Hospital in many Aspects like Managing Patients Records, Doctors Records, Appointment Records. Technologies used in this project is JDBC, Core Java, MYSQL Databases. 
